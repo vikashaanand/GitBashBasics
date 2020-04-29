@@ -1,0 +1,26 @@
+1. To view the version of git
+git --version 
+
+2. View Settings
+git config --list
+
+3. View any specific field
+git config user.name
+
+4. To edit in settings
+git config global user.name "Vikash Kumar"
+
+5. get help
+git help
+
+6. specific help
+git help commit
+
+7. To view Present Workind Directory
+pwd
+
+8. to change directory
+cd dirName
+
+9. to move to parent directory
+cd ..

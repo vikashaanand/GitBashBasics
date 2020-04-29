@@ -24,3 +24,9 @@ cd dirName
 
 9. to move to parent directory
 cd ..
+
+10. To clear Screen
+clear
+
+11. To Exit
+exit

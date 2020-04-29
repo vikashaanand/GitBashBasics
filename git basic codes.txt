@@ -30,3 +30,18 @@ clear
 
 11. To Exit
 exit
+
+12. initilize the project as git repository
+git init
+
+12. Adding everything of the folder
+git add .
+
+13. Adding any specific file (eg. myFile.txt) 
+git add myFile.txt
+
+12. Difference between working copy and staging area files
+git diff
+
+13. Difference between staging area files
+git diff --staged

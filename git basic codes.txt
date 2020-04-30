@@ -61,4 +61,11 @@ $ git commit -m "This will add evry file and commit it"
 18. UNDO (Takes from git repo and add it to workung copy)
 $ git checkout -- filename.txt
 
-19. unStaging
+19. UNDO till specific commit
+$ git checkout comitId -- filename.txt
+
+20. unStaging files (Commit required after this)
+$ git reset HEAD filename.txt
+
+21. Add git server repo address to remote varivable
+$ git remote add VariableName http://github.com/address/example.com

@@ -45,3 +45,18 @@ git diff
 
 13. Difference between staging area files
 git diff --staged
+
+14. to remove
+$ git rm filename.txt
+
+15. To move or rename
+$ git mv first.txt second.txt
+
+16. To move within Folder
+$ git mv first.txt FolderName/fileName.txt
+
+17.To Commit new changes directly to git repo without addong it to staging area
+$ git commit -m "This will add evry file and commit it"
+
+18. UNDO
+$ git checkout --

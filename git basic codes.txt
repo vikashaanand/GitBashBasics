@@ -61,4 +61,4 @@ $ git commit -m "This will add evry file and commit it"
 18. UNDO (Takes from git repo and add it to workung copy)
 $ git checkout -- filename.txt
 
-19. unStag
+19. unStaging

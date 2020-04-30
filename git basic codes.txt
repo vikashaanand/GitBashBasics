@@ -59,4 +59,4 @@ $ git mv first.txt FolderName/fileName.txt
 $ git commit -m "This will add evry file and commit it"
 
 18. UNDO
-$ git checkout --
+$ git checkout --filename.txt

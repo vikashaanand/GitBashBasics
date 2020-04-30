@@ -75,3 +75,5 @@ $ git remote
 
 23. pushing repo to server
 $ git push -u remoteVariable master
+
+24. ctrl+c, reset

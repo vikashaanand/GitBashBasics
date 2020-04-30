@@ -58,5 +58,7 @@ $ git mv first.txt FolderName/fileName.txt
 17.To Commit new changes directly to git repo without addong it to staging area
 $ git commit -m "This will add evry file and commit it"
 
-18. UNDO
-$ git checkout --filename.txt
+18. UNDO (Takes from git repo and add it to workung copy)
+$ git checkout -- filename.txt
+
+19. 

@@ -69,3 +69,9 @@ $ git reset HEAD filename.txt
 
 21. Add git server repo address to remote varivable
 $ git remote add VariableName http://github.com/address/example.com
+
+22. get cuureent remote variable name
+$ git remote
+
+23. pushing repo to server
+$ git push -u remoteVariable master
